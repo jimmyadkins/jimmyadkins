@@ -1,17 +1,17 @@
 ## My Tools
-<img src="https://skillicons.dev/icons?i=typescript,react,cs,cpp,python,java,go" />
+<img src="https://skillicons.dev/icons?i=typescript,react,cs,cpp,python,java,scala,azure,unity" />
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyadkins&layout=compact&langs_count=10&theme=dark)
 
-## Sebastian De La Espriella's GitHub Stats
+## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmyadkins&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jimmyadkins&theme=dark)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jimmyadkins&theme=darkhub)
 
 <!--
 **jimmyadkins/jimmyadkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
