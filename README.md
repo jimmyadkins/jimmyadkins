@@ -1,5 +1,5 @@
 ## My Tools
-<img src="https://skillicons.dev/icons?i=typescript,react,cs,cpp,python,java,scala,azure,unity" />
+<img src="https://skillicons.dev/icons?i=typescript,react,cs,cpp,c,python,java,scala,azure,unity" />
 
 ## Stats
 
